@@ -45,5 +45,5 @@ for (var i = 0; i < navLinks.length; i++) {
 }
 
 function downloadFile() {
-  window.open("images/CV.jpg")
+  window.open("Images/CV.jpg")
 }
